@@ -1,0 +1,78 @@
+/* Estilos generales */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(96, 165, 152);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    height: 100vh;
+    gap: 30px;
+    padding: 20px; /* Asegura que no haya espacio en los bordes */
+}
+
+/*------------------ MAIN -----------------*/
+
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+/*---------------------- HEADER ---------------------------------------*/
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 3rem; /* Espaciado más grande para mayor amplitud */
+    color: white;
+    background-color: #007f73; /* Fondo más suave */
+    border-radius: 12px; /* Bordes redondeados para un toque más suave */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Sombra sutil */
+    width: 100%;
+    max-width: 1200px; /* Ancho máximo para que no se estire demasiado */
+    margin: 0 auto 20px; /* Centrado con margen inferior */
+}
+
+/* Logo */
+.header__logo img {
+    width: 120px; /* Ajustar tamaño del logo */
+    height: auto;
+    transition: transform 0.3s ease; /* Transición para efecto hover */
+}
+
+    .header__logo img:hover {
+        transform: scale(1.1); /* Efecto de ampliación del logo al pasar el mouse */
+    }
+
+/* Título */
+.header__title {
+    font-size: 3rem; /* Título grande para visibilidad */
+    font-weight: bold;
+    color: #fff; /* Blanco para contrastar bien con el fondo */
+    letter-spacing: 2px; /* Un poco de espacio entre letras */
+    text-transform: uppercase; /* Hace el texto en mayúsculas */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Sombra sutil para el texto */
+}
+
+/* Switch (botón de cambiar) */
+.header__switch {
+    cursor: pointer;
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: #ffcc00; /* Color destacado para el botón */
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+    .header__switch:hover {
+        color: #ff9900; /* Cambio de color al pasar el mouse */
+        transform: scale(1.1); /* Efecto de ampliación */
+    }
