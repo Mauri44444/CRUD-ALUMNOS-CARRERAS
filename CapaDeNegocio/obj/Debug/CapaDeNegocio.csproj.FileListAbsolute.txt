@@ -63,3 +63,20 @@ C:\Users\Graciela\Desktop\WebEscuela4 - copia - copia - copia\WebEscuelaJsonProf
 C:\Users\Graciela\Desktop\WebEscuela4 - copia - copia - copia\WebEscuelaJsonProfe\CapaDeNegocio\obj\Debug\CapaDeNe.701FBC6E.Up2Date
 C:\Users\Graciela\Desktop\WebEscuela4 - copia - copia - copia\WebEscuelaJsonProfe\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
 C:\Users\Graciela\Desktop\WebEscuela4 - copia - copia - copia\WebEscuelaJsonProfe\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\bin\Debug\CapaDeNegocio.dll
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\bin\Debug\CapaDeDatos.dll
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\bin\Debug\System.Memory.dll
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\bin\Debug\System.Buffers.dll
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\bin\Debug\System.ValueTuple.dll
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\bin\Debug\CapaDeDatos.pdb
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.AssemblyReference.cache
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\obj\Debug\CapaDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\obj\Debug\CapaDeNe.701FBC6E.Up2Date
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\obj\Debug\CapaDeNegocio.dll
+C:\Users\Graciela\Desktop\TRABAJO ANALISTA MAURI\ABMC ALUMNOS Y CARRERAS\CapaDeNegocio\obj\Debug\CapaDeNegocio.pdb
